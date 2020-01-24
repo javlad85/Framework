@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c9456c5f-8533-42a0-a612-5488be5d6252" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="cerebus">
+      <favorite_root url="file://$PROJECT_DIR$" module="cerebus" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+        <favorite_root url="file://$PROJECT_DIR$/src" module="cerebus" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+          <favorite_root url="file://$PROJECT_DIR$/src/main" module="cerebus" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+            <favorite_root url="file://$PROJECT_DIR$/src/main/java" module="cerebus" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            <favorite_root url="file://$PROJECT_DIR$/src/main/resources" module="cerebus" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+          </favorite_root>
+          <favorite_root url="file://$PROJECT_DIR$/src/test" module="cerebus" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+            <favorite_root url="file://$PROJECT_DIR$/src/test/java" module="cerebus" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+          </favorite_root>
+        </favorite_root>
+        <favorite_root url="file://$PROJECT_DIR$/.idea" module="cerebus" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+          <favorite_root url="file://$PROJECT_DIR$/.idea/misc.xml" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/.idea/compiler.xml" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/.idea/workspace.xml" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/.idea/uiDesigner.xml" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        </favorite_root>
+        <favorite_root url="file://$PROJECT_DIR$/Generic" module="Generic" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+          <favorite_root url="file://$PROJECT_DIR$/Generic/src" module="Generic" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+            <favorite_root url="file://$PROJECT_DIR$/Generic/src/main" module="Generic" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+              <favorite_root url="file://$PROJECT_DIR$/Generic/src/main/java" module="Generic" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                <favorite_root url="file://$PROJECT_DIR$/Generic/src/main/java/driver" module="Generic" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                  <favorite_root url="file://$PROJECT_DIR$/Generic/src/main/java/driver/chromedriver" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                </favorite_root>
+                <favorite_root url="file://$PROJECT_DIR$/Generic/src/main/java/CommonAPI.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              </favorite_root>
+              <favorite_root url="file://$PROJECT_DIR$/Generic/src/main/resources" module="Generic" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </favorite_root>
+            <favorite_root url="file://$PROJECT_DIR$/Generic/src/test" module="Generic" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+              <favorite_root url="file://$PROJECT_DIR$/Generic/src/test/java" module="Generic" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                <favorite_root url="file://$PROJECT_DIR$/Generic/src/test/java/driver" module="Generic" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                  <favorite_root url="file://$PROJECT_DIR$/Generic/src/test/java/driver/chromedriver" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                </favorite_root>
+                <favorite_root url="file://$PROJECT_DIR$/Generic/src/test/java/registration" module="Generic" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                  <favorite_root url="file://$PROJECT_DIR$/Generic/src/test/java/registration/googleSearchTest.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="file://$PROJECT_DIR$/Generic/src/test/java/registration/FacebookLogInTestFail.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="file://$PROJECT_DIR$/Generic/src/test/java/registration/FacebookRegistrationTest.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="file://$PROJECT_DIR$/Generic/src/test/java/registration/YahooLogInTestFailWrongPassword.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="file://$PROJECT_DIR$/Generic/src/test/java/registration/yahooLoginTestFailNoEmailProvided.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                </favorite_root>
+                <favorite_root url="file://$PROJECT_DIR$/Generic/src/test/java/CommonAPI.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              </favorite_root>
+            </favorite_root>
+          </favorite_root>
+          <favorite_root url="file://$PROJECT_DIR$/Generic/pom.xml" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        </favorite_root>
+        <favorite_root url="file://$PROJECT_DIR$/pom.xml" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/cerebus.iml" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/googleSearch" module="cerebus" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+          <favorite_root url="file://$PROJECT_DIR$/googleSearch/pom.xml" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        </favorite_root>
+      </favorite_root>
+    </favorites_list>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WfOJqmdOygtoprdulovUGOlQha" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Generic/src/test/java/registration" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.2125" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Generic/src/test/java" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Generic/src/test/java/driver" />
+      <recent name="$PROJECT_DIR$/Generic/src/main/java/driver" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.YahooLogInTestFailWrongPassword.yahooLoginTestFailWrongPassword">
+    <configuration name="FacebookLogInTestFail.testUserCannotLogInWhileProvideWrongPassword" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Generic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="registration.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="registration" />
+      <option name="MAIN_CLASS_NAME" value="registration.FacebookLogInTestFail" />
+      <option name="METHOD_NAME" value="testUserCannotLogInWhileProvideWrongPassword" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="YahooLogInTestFailWrongPassword.yahooLoginFailWrongPassword" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Generic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="registration.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="registration" />
+      <option name="MAIN_CLASS_NAME" value="registration.YahooLogInTestFailWrongPassword" />
+      <option name="METHOD_NAME" value="yahooLoginFailWrongPassword" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="YahooLogInTestFailWrongPassword.yahooLoginTestFailWrongPassword" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Generic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="registration.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="registration" />
+      <option name="MAIN_CLASS_NAME" value="registration.YahooLogInTestFailWrongPassword" />
+      <option name="METHOD_NAME" value="yahooLoginTestFailWrongPassword" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="googleSearchTest.googleSearchTestPositive" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Generic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="registration.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="registration" />
+      <option name="MAIN_CLASS_NAME" value="registration.googleSearchTest" />
+      <option name="METHOD_NAME" value="googleSearchTestPositive" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="yahooLoginTestFailNoEmailProvided.yahooLoginTestFailNoEmailProvided" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Generic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="registration.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="registration" />
+      <option name="MAIN_CLASS_NAME" value="registration.yahooLoginTestFailNoEmailProvided" />
+      <option name="METHOD_NAME" value="yahooLoginTestFailNoEmailProvided" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.YahooLogInTestFailWrongPassword.yahooLoginTestFailWrongPassword" />
+        <item itemvalue="TestNG.yahooLoginTestFailNoEmailProvided.yahooLoginTestFailNoEmailProvided" />
+        <item itemvalue="TestNG.YahooLogInTestFailWrongPassword.yahooLoginFailWrongPassword" />
+        <item itemvalue="TestNG.googleSearchTest.googleSearchTestPositive" />
+        <item itemvalue="TestNG.FacebookLogInTestFail.testUserCannotLogInWhileProvideWrongPassword" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c9456c5f-8533-42a0-a612-5488be5d6252" name="Default Changelist" comment="" />
+      <created>1579537113503</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579537113503</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="260" y="51" key="#Project_Structure" timestamp="1579711356013">
+      <screen x="0" y="23" width="1280" height="728" />
+    </state>
+    <state x="260" y="51" key="#Project_Structure/0.23.1280.728@0.23.1280.728" timestamp="1579711356013" />
+    <state x="513" y="282" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1579545014865">
+      <screen x="0" y="23" width="1280" height="728" />
+    </state>
+    <state x="513" y="282" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.23.1280.728@0.23.1280.728" timestamp="1579545014865" />
+    <state x="443" y="145" key="FileChooserDialogImpl" timestamp="1579813515761">
+      <screen x="0" y="23" width="1280" height="728" />
+    </state>
+    <state x="443" y="145" key="FileChooserDialogImpl/0.23.1280.728@0.23.1280.728" timestamp="1579813515761" />
+    <state width="1238" height="102" key="GridCell.Tab.0.bottom" timestamp="1579759828978">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="102" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1579759828978" />
+    <state width="1279" height="180" key="GridCell.Tab.0.bottom/0.23.1280.728@0.23.1280.728" timestamp="1579546496721" />
+    <state width="1279" height="180" key="GridCell.Tab.0.bottom/0.23.1280.730@0.23.1280.730" timestamp="1579546720855" />
+    <state width="1238" height="102" key="GridCell.Tab.0.center" timestamp="1579759828976">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="102" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1579759828976" />
+    <state width="1279" height="180" key="GridCell.Tab.0.center/0.23.1280.728@0.23.1280.728" timestamp="1579546496719" />
+    <state width="1279" height="180" key="GridCell.Tab.0.center/0.23.1280.730@0.23.1280.730" timestamp="1579546720853" />
+    <state width="1238" height="102" key="GridCell.Tab.0.left" timestamp="1579759828975">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="102" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1579759828975" />
+    <state width="1279" height="180" key="GridCell.Tab.0.left/0.23.1280.728@0.23.1280.728" timestamp="1579546496718" />
+    <state width="1279" height="180" key="GridCell.Tab.0.left/0.23.1280.730@0.23.1280.730" timestamp="1579546720853" />
+    <state width="1238" height="102" key="GridCell.Tab.0.right" timestamp="1579759828977">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="102" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1579759828977" />
+    <state width="1279" height="180" key="GridCell.Tab.0.right/0.23.1280.728@0.23.1280.728" timestamp="1579546496720" />
+    <state width="1279" height="180" key="GridCell.Tab.0.right/0.23.1280.730@0.23.1280.730" timestamp="1579546720854" />
+    <state x="198" y="27" key="Maven.ArtifactSearchDialog" timestamp="1579725385297">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="198" y="27" key="Maven.ArtifactSearchDialog/0.0.1280.800@0.0.1280.800" timestamp="1579725385297" />
+    <state x="198" y="48" key="Maven.ArtifactSearchDialog/0.23.1280.728@0.23.1280.728" timestamp="1579711786343" />
+    <state x="198" y="48" key="Maven.ArtifactSearchDialog/0.23.1280.729@0.23.1280.729" timestamp="1579712245521" />
+    <state x="169" y="23" key="SettingsEditor" timestamp="1579712224143">
+      <screen x="0" y="23" width="1280" height="729" />
+    </state>
+    <state x="169" y="25" key="SettingsEditor/0.23.1280.728@0.23.1280.728" timestamp="1579541412805" />
+    <state x="169" y="23" key="SettingsEditor/0.23.1280.729@0.23.1280.729" timestamp="1579712224143" />
+    <state x="100" y="123" width="1121" height="526" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1579813714095">
+      <screen x="0" y="23" width="1280" height="729" />
+    </state>
+    <state x="100" y="123" width="1121" height="526" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.23.1280.729@0.23.1280.729" timestamp="1579813714095" />
+    <state x="341" y="29" width="639" height="714" key="find.popup" timestamp="1579813524769">
+      <screen x="0" y="23" width="1280" height="728" />
+    </state>
+    <state x="341" y="29" width="639" height="714" key="find.popup/0.23.1280.728@0.23.1280.728" timestamp="1579813524769" />
+    <state x="341" y="29" width="639" height="714" key="find.popup/0.23.1280.729@0.23.1280.729" timestamp="1579712562070" />
+    <state x="126" y="66" key="new project wizard" timestamp="1579825697177">
+      <screen x="0" y="23" width="1280" height="728" />
+    </state>
+    <state x="126" y="66" key="new project wizard/0.23.1280.728@0.23.1280.728" timestamp="1579825697177" />
+    <state x="90" y="83" key="new project wizard/0.23.1280.729@0.23.1280.729" timestamp="1579712882509" />
+    <state x="325" y="77" width="670" height="676" key="search.everywhere.popup" timestamp="1579705144655">
+      <screen x="0" y="23" width="1280" height="730" />
+    </state>
+    <state x="325" y="77" width="670" height="676" key="search.everywhere.popup/0.23.1280.730@0.23.1280.730" timestamp="1579705144655" />
+  </component>
+</project>
